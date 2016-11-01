@@ -1,0 +1,9 @@
+{
+    "require": {
+        "slim/slim": "^3.5",
+        "doctrine/orm": "^2.5",
+        "respect/validation": "^1.1",
+        "devster/ubench": "^1.2",
+        "phpunit/phpunit": "^5.6"
+    }
+}
